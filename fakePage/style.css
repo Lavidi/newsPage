@@ -1,0 +1,39 @@
+/* .section-hot li,
+.section-reality li{
+    padding: 10px;
+} */
+.news-content .section-news li{
+    padding: 10px;
+}
+
+.news-content .section-hot li:hover{
+    background-color: darkolivegreen;
+}
+.news-content .section-reality li:hover{
+    background-color: cadetblue;
+}
+
+.news-content .section-news .footer{
+    background-color: #fff;
+}
+
+.news-content .section-hot .footer{
+    color: darkolivegreen;
+}
+.news-content .section-reality .footer{
+    color: cadetblue;
+}
+
+.news-content .section-news li:hover a{
+    color: #fff;
+}
+.news-content .section-news h2{
+    color: #fff;
+    padding: 10px;
+}
+.news-content .section-hot h2{
+    background-color: darkolivegreen;
+}
+.news-content .section-reality h2{
+    background-color: cadetblue;
+}
